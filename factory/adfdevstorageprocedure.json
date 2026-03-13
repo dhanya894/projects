@@ -1,0 +1,9 @@
+{
+	"name": "adfdevstorageprocedure",
+	"location": "southafricanorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7c9f1ffa-9cbe-4534-94c6-3b6abb14f5c6",
+		"tenantId": "0b25f0b9-6d84-49d9-9537-5ea5f9bfc60a"
+	}
+}
